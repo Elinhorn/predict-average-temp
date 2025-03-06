@@ -35,4 +35,4 @@ The app uses `yearly-temperature-data.json`, which has been processed from `Glob
 ## Notes
 
 - This is a school project från FEI - Företagsekonomiska Institutet YH-coures AI-engineering.
-- **Data ends in 2013, predictions are estimates.**
+- **Data ends in 2013, predictions are estimates. That is why i predict this year's average temperature as well.**
