@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Temperature Prediction (TensorFlow.js)</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Temperature Prediction</h1>
+        <div class="input-container">
+            <select id="countrySelect">
+                </select>
+            <button id="predictButton">Predict</button>
+        </div>
+        <div id="trainingMessage" style="display: none;">Training in progress...</div>
+        <div id="predictionResult"></div>
+        <canvas id="temperatureChart"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
