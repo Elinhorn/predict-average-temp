@@ -1,16 +1,16 @@
 # Temperature Trend Prediction App ( School Project )
 
-This app predicts future average temperatures using machine learning. This is a school project and
+This app predicts future average temperatures using machine learning.
 
 ## Features
 
 - Predicts temperatures for 2025 and 2050.
 - Shows temperature trends with a chart.
-- Runs in the browser.
+- The model runs in the browser.
 
 ## How to Use
 
-1.  Open `index.html` in your browser.
+1.  Open `index.html` with live server.
 2.  Pick a country.
 3.  Click "Predict".
 
